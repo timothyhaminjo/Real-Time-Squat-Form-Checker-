@@ -37,6 +37,8 @@ The current version uses approximate knee-angle thresholds:
 
 These values were calibrated empirically based on observed webcam output and may vary depending on camera position, body proportions, and pose-estimation noise.
 
+![alt text](https://github.com/timothyhaminjo/Real-Time-Squat-Form-Checker-/blob/main/Screenshot1.png) 
+
 ## Why This Matters
 This project demonstrates a simple real-time biomechanical feedback system using computer vision. While implemented for squat analysis, the same general pipeline can be extended to other motion-feedback applications that require real-time angle estimation and performance guidance.
 
