@@ -39,6 +39,8 @@ These values were calibrated empirically based on observed webcam output and may
 
 ![alt text](https://github.com/timothyhaminjo/Real-Time-Squat-Form-Checker-/blob/main/Screenshot1.png) 
 
+![alt text](https://github.com/timothyhaminjo/Real-Time-Squat-Form-Checker-/blob/main/Screenshot2.png)
+
 ## Why This Matters
 This project demonstrates a simple real-time biomechanical feedback system using computer vision. While implemented for squat analysis, the same general pipeline can be extended to other motion-feedback applications that require real-time angle estimation and performance guidance.
 
